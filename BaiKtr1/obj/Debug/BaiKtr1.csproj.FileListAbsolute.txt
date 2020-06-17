@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\obj\Debug\BaiKtr1.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\obj\Debug\BaiKtr1.Form1.resources
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\obj\Debug\BaiKtr1.Properties.Resources.resources
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\obj\Debug\BaiKtr1.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\obj\Debug\BaiKtr1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\bin\Debug\BaiKtr1.exe.config
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\bin\Debug\BaiKtr1.exe
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\bin\Debug\BaiKtr1.pdb
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\obj\Debug\BaiKtr1.exe
+C:\Users\DELL\source\repos\BaiKtr1\BaiKtr1\obj\Debug\BaiKtr1.pdb
